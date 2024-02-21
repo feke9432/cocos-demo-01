@@ -1,0 +1,16 @@
+/library/
+/temp/
+local/*
+!local/local.json
+/build/
+
+npm-debug.log
+node_modules/
+
+*.log
+*.sql
+*.sqlite
+
+.idea/
+
+.vscode/
